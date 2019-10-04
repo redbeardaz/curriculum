@@ -59,7 +59,7 @@ The web development industry has a long history of successful developers with va
 
 Once you start to feel comfortable with the tools, start hacking on open source projects [(like The Odin project itself)](/contributing). The more you contribute, the more you will learn about what you can do, and the closer you will get to being hireable. These projects will also look great on your resume!
 
-Read [this comprehensive blog post from Happy Bear Software](https://www.happybearsoftware.com/how-to-get-a-programmer-job) about the journey to getting hired as a brief introduction to what you will face ahead.
+Read [this article from Infinum](https://infinum.co/the-capsized-eight/becoming-a-ruby-on-rails-developer) about the journey to becoming a Ruby on Rails Developer.
 
 ### Why Odin?
 
